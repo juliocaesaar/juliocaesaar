@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- <img src="https://github.com/juliovt-07/juliovt-07/blob/output/github-contribution-grid-snake.svg" width="100%"> -->
+<!-- <img src="https://github.com/juliocaesaar/juliocaesaar/blob/output/github-contribution-grid-snake.svg" width="100%"> -->
 
 # 👋 Welcome to my GitHub!
 
@@ -185,15 +185,15 @@
 
 ## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=juliovt-07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=juliocaesaar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliovt-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocaesaar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juliovt-07&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juliocaesaar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak" />
 
 </div>
 
@@ -221,7 +221,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=juliovt-07&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=juliocaesaar&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
