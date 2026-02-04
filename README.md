@@ -84,7 +84,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://capacitorjs.com/" target="_blank">
-    <img src="https://styles.redditmedia.com/t5_11k7yb/styles/communityIcon_4qop9fxwzv651.png" alt="Capacitor" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/capacitor/capacitor-original.svg" alt="Capacitor" width="50" height="50" />
   </a>
 </p>
 
@@ -101,7 +101,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="Tailwind CSS" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50" />
   </a>
   &nbsp;&nbsp;
   <a href="https://ui.shadcn.com/" target="_blank">
@@ -126,11 +126,11 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://laravel.com/" target="_blank">
-    <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" alt="Laravel" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50" />
   </a>
   &nbsp;&nbsp;
   <a href="https://filamentphp.com/" target="_blank">
-    <img src="https://pbs.twimg.com/profile_images/1619675369333788674/FVauPXtT_400x400.jpg" alt="Filament PHP" width="50" height="50" style="border-radius: 8px;" />
+    <img src="https://avatars.githubusercontent.com/u/64450473?s=200&v=4" alt="Filament PHP" width="50" height="50" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.postgresql.org/" target="_blank">
@@ -138,11 +138,11 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png?f=webp" alt="MongoDb" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />
   </a>
   &nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" width="50" height="50" />
   </a>
 </p>
 
@@ -185,11 +185,11 @@
 
 ## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=juliocaesaar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juliocaesaar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocaesaar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juliocaesaar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
 
 <br><br>
 
