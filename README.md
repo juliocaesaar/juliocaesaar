@@ -219,14 +219,3 @@
 <img src="https://komarev.com/ghpvc/?username=juliocaesaar&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
-
-<div align="center">
-
----
-
-### ⚡ Fun Fact
-*Turning ideas into code since forever! 🚀*
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Waving Hand">
-
-</div>
