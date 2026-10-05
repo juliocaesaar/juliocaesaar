@@ -188,10 +188,6 @@
 
 ## 📊 GitHub Statistics
 
-<img src="https://raw.githubusercontent.com/juliocaesaar/juliocaesaar/master/metrics.svg" alt="GitHub Stats" width="100%" />
-
-<br><br>
-
 <img src="https://github-readme-streak-stats-nine-delta.vercel.app/?user=juliocaesaar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak" />
 
 </div>
